@@ -1,7 +1,5 @@
 SpeakSafe
 
-Document it. Report it. Be heard.
-
 SpeakSafe is a private, encrypted web platform designed to empower women students and staff to document abuse, report incidents safely, preserve evidence, and understand their rights.
 
 The platform provides a safe space for individuals experiencing sexual, verbal, or online abuse, helping them take control of their experiences and access support when they are ready.
