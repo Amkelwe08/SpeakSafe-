@@ -108,3 +108,14 @@ Project Mission
 SpeakSafe exists to create a safer environment where women can document their experiences, report abuse when they are ready, understand their rights, and have their voices heard.
 
 SpeakSafe: Safe to document. Safe to report. Safe to be heard.
+
+SpeakSafe/
+│
+├── README.md
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+└── assets/
